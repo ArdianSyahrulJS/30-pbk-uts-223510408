@@ -109,7 +109,7 @@ onMounted(async () => {
 .header {
   display: flex;
   justify-content: flex-start;
-  background-color: #803D3B;
+  background-color: #745d5c;
   padding: 10px 20px;
 }
 
